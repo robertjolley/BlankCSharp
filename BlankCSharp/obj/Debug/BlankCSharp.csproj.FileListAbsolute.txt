@@ -1,0 +1,7 @@
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\bin\BlankCSharp.dll.config
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\bin\BlankCSharp.dll
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\bin\BlankCSharp.pdb
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\obj\Debug\BlankCSharp.csprojAssemblyReference.cache
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\obj\Debug\BlankCSharp.csproj.CoreCompileInputs.cache
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\obj\Debug\BlankCSharp.dll
+C:\Users\bjolley\git\Projects\BlankCSharp\BlankCSharp\obj\Debug\BlankCSharp.pdb
